@@ -1,0 +1,6 @@
+# игнорировать все
+*
+
+# но не игнорировать .gitignore и папку images
+!.gitignore
+!images/
