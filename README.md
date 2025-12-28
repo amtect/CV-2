@@ -82,11 +82,11 @@
 - Камуфляж (сходный цвет с фоном)  
 - Процент пропущенных объектов: примерно 7% от аннотированных животных    
 
-![alt text](image.png)  
+![alt text](images/image.png)  
 
-![alt text](image-1.png)  
+![alt text](images/image-1.png)  
 
-![alt text](image-2.png)  
+![alt text](images/image-2.png)  
 
 
 ## Выводы   
